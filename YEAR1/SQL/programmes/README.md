@@ -4,7 +4,7 @@
 
 Cliquer sur le bouton vert "clone or download"
 
-##Méthode 2 :
+## Méthode 2 :
 
 git clone le répertoire
 
