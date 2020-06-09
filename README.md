@@ -1,2 +1,2 @@
-# IPT-
+# IPT
 Dossier IPT
